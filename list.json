@@ -1,0 +1,109 @@
+{
+    "supermercados": [
+        {
+            "nombre_super": "ALCAMPO",
+            "direccion": "C/ABAJO",
+            "geolocalizacion": [
+                "41°24'12.2 N",
+                "2°10'26.5 E"
+            ],
+            "productos": [
+                {
+                    "nom_producto": "Lechuga",
+                    "des_producto": "Lechuga fresca cat I",
+                    "categoria": "fruteria",
+                    "precio_normal": 2,
+                    "undMedida": "UND",
+                    "oferta":{
+                        "fecha_inicio": "2022-04-03T00:00:01+00:00",
+                        "fecha_fin": "2022-03-10T00:00:01+00:00",
+                        "descuento": "6%"
+                    },
+                    "UndCompradas": 3,
+                    "fecha_compra": ["2022-03-01T00:00:01+00:00","2022-03-05T00:00:01+00:00"]
+                },
+                {
+                    "nom_producto": "Mango",
+                    "des_producto": "Mango fruta temporada",
+                    "categoria": "fruteria",
+                    "precio_normal": 2.75,
+                    "undMedida": "KG",
+                    "oferta":{
+                        "fecha_inicio": "2022-04-03T00:00:01+00:00",
+                        "fecha_fin": "2022-03-10T00:00:01+00:00",
+                        "descuento": "2%"
+                    },
+                    "UndCompradas": 0,
+                    "fecha_compra": []
+                },
+                {
+                    "nom_producto": "Leche",
+                    "des_producto": "Leche gallega",
+                    "categoria": "lacteos",
+                    "precio_normal": 0.89,
+                    "undMedida": "L",
+                    "oferta":{
+                        "fecha_inicio": "2022-04-03T00:00:01+00:00",
+                        "fecha_fin": "2022-03-10T00:00:01+00:00",
+                        "descuento": "2%"
+                    },
+                    "UndCompradas": 0,
+                    "fecha_compra": []
+                },
+                {
+                    "nom_producto": "Pollo",
+                    "des_producto": "Pollo entero",
+                    "categoria": "carniceria",
+                    "precio_normal": 3.90,
+                    "undMedida": "KG",
+                    "oferta":{
+                        "fecha_inicio": "2022-04-03T00:00:01+00:00",
+                        "fecha_fin": "2022-03-10T00:00:01+00:00",
+                        "descuento": "2%"
+                    },
+                    "UndCompradas": 2,
+                    "fecha_compra": ["2022-04-01T00:00:01+00:00"]
+                }
+            ]
+        },
+        {
+            "nombre_super": "GADIS",
+            "direccion": "C/PAZ",
+            "geolocalizacion": [
+                "41°24'12.2 N",
+                "2°10'26.5 E"
+            ],
+            "productos": [
+                {
+                    "nom_producto": "Yogurt",
+                    "des_producto": "Yogurt natural",
+                    "categoria": "lacteos",
+                    "precio_normal": 1.03,
+                    "undMedida": "PACK",
+                    "oferta":{
+                        "fecha_inicio": "2022-04-03T00:00:01+00:00",
+                        "fecha_fin": "2022-03-10T00:00:01+00:00",
+                        "descuento": "0.25%"
+                    },
+                    "UndCompradas": 5,
+                    "fecha_compra": ["2022-02-03T00:00:01+00:00","2022-03-03T00:00:01+00:00","2022-04-03T00:00:01+00:00"]
+                },
+                {
+                    "nom_producto": "Pollo",
+                    "des_producto": "Pollo entero",
+                    "categoria": "carniceria",
+                    "precio_normal": 3.75,
+                    "undMedida": "KG",
+                    "oferta":{
+                        "fecha_inicio": "2022-04-03T00:00:01+00:00",
+                        "fecha_fin": "2022-03-10T00:00:01+00:00",
+                        "descuento": "2%"
+                    },
+                    "UndCompradas": 1,
+                    "fecha_compra": ["2022-04-01T00:00:01+00:00"]
+                }
+            ]
+        }
+       
+    ]
+}

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <supermercados>
+    <nombre_super>ALCAMPO</nombre_super>
+    <direccion>C/ABAJO</direccion>
+    <geolocalizacion>41°24'12.2 N</geolocalizacion>
+    <geolocalizacion>2°10'26.5 E</geolocalizacion>
+    <productos>
+      <nom_producto>Lechuga</nom_producto>
+      <des_producto>Lechuga fresca cat I</des_producto>
+      <categoria>fruteria</categoria>
+      <precio_normal number="true">2</precio_normal>
+      <undMedida>UND</undMedida>
+      <oferta>
+        <fecha_inicio>2022-04-03T00:00:01+00:00</fecha_inicio>
+        <fecha_fin>2022-03-10T00:00:01+00:00</fecha_fin>
+        <descuento>6%</descuento>
+      </oferta>
+      <UndCompradas number="true">3</UndCompradas>
+      <fecha_compra>2022-03-01T00:00:01+00:00</fecha_compra>
+      <fecha_compra>2022-03-05T00:00:01+00:00</fecha_compra>
+    </productos>
+    <productos>
+      <nom_producto>Mango</nom_producto>
+      <des_producto>Mango fruta temporada</des_producto>
+      <categoria>fruteria</categoria>
+      <precio_normal number="true">2.75</precio_normal>
+      <undMedida>KG</undMedida>
+      <oferta>
+        <fecha_inicio>2022-04-03T00:00:01+00:00</fecha_inicio>
+        <fecha_fin>2022-03-10T00:00:01+00:00</fecha_fin>
+        <descuento>2%</descuento>
+      </oferta>
+      <UndCompradas number="true">0</UndCompradas>
+      <fecha_compra empty-array="true"></fecha_compra>
+    </productos>
+    <productos>
+      <nom_producto>Leche</nom_producto>
+      <des_producto>Leche gallega</des_producto>
+      <categoria>lacteos</categoria>
+      <precio_normal number="true">0.89</precio_normal>
+      <undMedida>L</undMedida>
+      <oferta>
+        <fecha_inicio>2022-04-03T00:00:01+00:00</fecha_inicio>
+        <fecha_fin>2022-03-10T00:00:01+00:00</fecha_fin>
+        <descuento>2%</descuento>
+      </oferta>
+      <UndCompradas number="true">0</UndCompradas>
+      <fecha_compra empty-array="true"></fecha_compra>
+    </productos>
+    <productos>
+      <nom_producto>Pollo</nom_producto>
+      <des_producto>Pollo entero</des_producto>
+      <categoria>carniceria</categoria>
+      <precio_normal number="true">3.90</precio_normal>
+      <undMedida>KG</undMedida>
+      <oferta>
+        <fecha_inicio>2022-04-03T00:00:01+00:00</fecha_inicio>
+        <fecha_fin>2022-03-10T00:00:01+00:00</fecha_fin>
+        <descuento>2%</descuento>
+      </oferta>
+      <UndCompradas number="true">2</UndCompradas>
+      <fecha_compra array="true">2022-04-01T00:00:01+00:00</fecha_compra>
+    </productos>
+  </supermercados>
+  <supermercados>
+    <nombre_super>GADIS</nombre_super>
+    <direccion>C/PAZ</direccion>
+    <geolocalizacion>41°24'12.2 N</geolocalizacion>
+    <geolocalizacion>2°10'26.5 E</geolocalizacion>
+    <productos>
+      <nom_producto>Yogurt</nom_producto>
+      <des_producto>Yogurt natural</des_producto>
+      <categoria>lacteos</categoria>
+      <precio_normal number="true">1.03</precio_normal>
+      <undMedida>PACK</undMedida>
+      <oferta>
+        <fecha_inicio>2022-04-03T00:00:01+00:00</fecha_inicio>
+        <fecha_fin>2022-03-10T00:00:01+00:00</fecha_fin>
+        <descuento>0.25%</descuento>
+      </oferta>
+      <UndCompradas number="true">5</UndCompradas>
+      <fecha_compra>2022-02-03T00:00:01+00:00</fecha_compra>
+      <fecha_compra>2022-03-03T00:00:01+00:00</fecha_compra>
+      <fecha_compra>2022-04-03T00:00:01+00:00</fecha_compra>
+    </productos>
+    <productos>
+      <nom_producto>Pollo</nom_producto>
+      <des_producto>Pollo entero</des_producto>
+      <categoria>carniceria</categoria>
+      <precio_normal number="true">3.75</precio_normal>
+      <undMedida>KG</undMedida>
+      <oferta>
+        <fecha_inicio>2022-04-03T00:00:01+00:00</fecha_inicio>
+        <fecha_fin>2022-03-10T00:00:01+00:00</fecha_fin>
+        <descuento>2%</descuento>
+      </oferta>
+      <UndCompradas number="true">1</UndCompradas>
+      <fecha_compra array="true">2022-04-01T00:00:01+00:00</fecha_compra>
+    </productos>
+  </supermercados>
+</root>
